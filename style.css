@@ -1,0 +1,15 @@
+.t1{
+    background-color: greenyellow;
+    padding: 40PX;
+}
+.t2{
+    background-color: mistyrose;
+    color: lightblue;
+    padding: 20px;
+}
+img{
+height: 400px;
+width: 400px;
+justify-content: center;
+border: 5px;
+}
